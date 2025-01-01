@@ -8,7 +8,7 @@ Neon Glow Effect: The clock hands feature a glowing neon border that changes col
 Responsive Layout: The clock adapts to different screen sizes and is fully responsive.
 Light/Dark Mode: The clock supports a toggle between light and dark modes for the background and text.
 Demo
-A live demo of the clock can be viewed at [https://divakar-todo.netlify.app].
+A live demo of the clock can be viewed at [https://dclockdigital.netlify.app].
 
 Installation
 Clone or download the repository:
